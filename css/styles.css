@@ -1,0 +1,38 @@
+body {
+    background-color: #FDEFEF;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #252A34;
+    border-width: 10px;
+    width: 5%;
+    height: 0px;
+
+}
+
+h1 {
+    color: #CDBBA7;
+    font-size: 50px;
+}
+
+h3 {
+    color: #CDBBA7;
+    font-size: 25px;
+}
+
+/* .smol{
+    color:#00ADB5 ;
+}
+
+#skills{
+    color: #3600b5;
+} */
+
+.circular{
+    border-radius: 100%;
+}
+
+a:hover{color: #4150c3;}
